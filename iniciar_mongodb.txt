@@ -1,0 +1,3 @@
+docker run --rm --name mongodb -v ${PWD}/mongodata:/data/db -v ${PWD}/datos:/datos -p 27017:27017 mongo:latest
+
+docker exec mongodb sh -c 'for f in ./datos/*.json; do mongoimport --db=database --collection=collection --file=$f --jsonArray done'
