@@ -1,0 +1,11 @@
+[project]
+name = "bddii-parte-ii-practica-mongodb-neo4j"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "motor>=3.7.1",
+    "pyautogui>=0.9.54",
+    "pymongo>=4.16.0",
+]
