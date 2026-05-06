@@ -220,3 +220,7 @@ __pycache__/
 
 # macOS
 .DS_Store
+neo4j/data/
+neo4j/plugins/
+.history/
+*.dump
