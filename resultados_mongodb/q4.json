@@ -1,0 +1,254 @@
+[{
+  "dungeons": [
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Burghap, Prison of the Jealous Hippies",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Withystream, Castle of the Screeching Otaku",
+    "Corrieclock, Pit of the Sexy Unknowns",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Bentalaun, Vault of the Old-Fashioned Pirates"
+  ],
+  "monster_type": "fiend"
+},
+{
+  "dungeons": [
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers"
+  ],
+  "monster_type": "ooze"
+},
+{
+  "dungeons": [
+    "Corrieclock, Pit of the Sexy Unknowns",
+    "Corriedal, Sewers of the Terrible Emperors",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Garthwort, Mines of the Elderly Emperors",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Burghap, Prison of the Jealous Hippies",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Marshgreat, Catacombs of the Wandering Degenerates"
+  ],
+  "monster_type": "humanoid"
+},
+{
+  "dungeons": [
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Corrieclock, Pit of the Sexy Unknowns",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Burghap, Prison of the Jealous Hippies",
+    "Strathglass, Mausoleum of the Repulsive Ninjas",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers",
+    "Corriedal, Sewers of the Terrible Emperors"
+  ],
+  "monster_type": "elemental"
+},
+{
+  "dungeons": [
+    "Fenwater, Hobble of the Fierce Furries",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Garthwort, Mines of the Elderly Emperors",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Burghap, Prison of the Jealous Hippies",
+    "Corrieclock, Pit of the Sexy Unknowns",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Withystream, Castle of the Screeching Otaku",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Corriedal, Sewers of the Terrible Emperors",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Strathglass, Mausoleum of the Repulsive Ninjas",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Bentalaun, Vault of the Old-Fashioned Pirates"
+  ],
+  "monster_type": "undead"
+},
+{
+  "dungeons": [
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Withystream, Castle of the Screeching Otaku",
+    "Corrieclock, Pit of the Sexy Unknowns",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Burghap, Prison of the Jealous Hippies",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Strathglass, Mausoleum of the Repulsive Ninjas",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers"
+  ],
+  "monster_type": "aberration"
+},
+{
+  "dungeons": [
+    "Burghap, Prison of the Jealous Hippies",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers",
+    "Corriedal, Sewers of the Terrible Emperors",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Garthwort, Mines of the Elderly Emperors",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Withystream, Castle of the Screeching Otaku",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Corrieclock, Pit of the Sexy Unknowns",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Watergarth, Stockade of the Feminist Presidents"
+  ],
+  "monster_type": "monstrosity"
+},
+{
+  "dungeons": [
+    "Garthwort, Mines of the Elderly Emperors",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Burghap, Prison of the Jealous Hippies",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Withystream, Castle of the Screeching Otaku",
+    "Schyppegarth, Laboratory of the Sticky Robots"
+  ],
+  "monster_type": "construct"
+},
+{
+  "dungeons": [
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Withystream, Castle of the Screeching Otaku",
+    "Garthwort, Mines of the Elderly Emperors",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers",
+    "Corriedal, Sewers of the Terrible Emperors",
+    "Dalshady, Cave of the Old-Fashioned Otaku"
+  ],
+  "monster_type": "celestial"
+},
+{
+  "dungeons": [
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Burghap, Prison of the Jealous Hippies",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Withystream, Castle of the Screeching Otaku",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers"
+  ],
+  "monster_type": "plant"
+},
+{
+  "dungeons": [
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Spleensparth, Mines of the Panicky Otaku",
+    "Fenwater, Hobble of the Fierce Furries",
+    "Bentalaun, Vault of the Old-Fashioned Pirates",
+    "Strathglass, Mausoleum of the Repulsive Ninjas",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Dalhylles, Culverts of the Grumpy Bandits",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Burgstream, Culverts of the Bashful Sumo Wrestlers",
+    "Burghap, Prison of the Jealous Hippies",
+    "Shadysparth, Hobble of the Wandering Stoners",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Garthwort, Mines of the Elderly Emperors",
+    "Schyppegarth, Laboratory of the Sticky Robots",
+    "Corrieclock, Pit of the Sexy Unknowns"
+  ],
+  "monster_type": "fey"
+},
+{
+  "dungeons": [
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Corriedal, Sewers of the Terrible Emperors",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Alaunstream, Pit of the Jolly Scientists",
+    "Wanton, Culverts of the Jealous Thieves",
+    "Corrieclock, Pit of the Sexy Unknowns",
+    "Watergarth, Stockade of the Feminist Presidents",
+    "Withystream, Castle of the Screeching Otaku",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers"
+  ],
+  "monster_type": "goblinoid"
+},
+{
+  "dungeons": [
+    "Arvaleclock, Dungeon of the Snobbish Scientists",
+    "Burghap, Prison of the Jealous Hippies",
+    "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+    "Marshgreat, Catacombs of the Wandering Degenerates",
+    "Dalshady, Cave of the Old-Fashioned Otaku",
+    "Withystream, Castle of the Screeching Otaku",
+    "Garthwort, Mines of the Elderly Emperors"
+  ],
+  "monster_type": "giant"
+}]
