@@ -1,4 +1,4 @@
-docker run --rm --name mongodb -v ${PWD}/mongodata:/data/db -v ${PWD}/datos:/datos -p 27017:27017 mongo:latest
+docker run --rm --name mongodb_0 -v ${PWD}/mongodata_0:/data/db -v ${PWD}/datos:/datos -p 27017:27017 mongo:latest
 
 docker exec mongodb sh -c '
 mongoimport --db=jotuns_lair --collection=rooms --file=./datos/rooms.json --jsonArray &&
