@@ -206,27 +206,16 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Mongo volumes
+# MongoDB local data
 mongodata/
 
-=======
 # Neo4j generated data
 neo4j/data/
 neo4j/plugins/
 
-# Opcional: dumps/backups si no quieres subirlos
-# neo4j/import/*.dump
-
-# Python
-__pycache__/
-.ipynb_checkpoints/
-.venv/
-.env
-
-# macOS
-.DS_Store
-neo4j/data/
-neo4j/plugins/
+# Local history
 .history/
-*.dump
+
+# OS metadata
+.DS_Store
 
