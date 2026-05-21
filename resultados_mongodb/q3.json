@@ -1,1384 +1,1384 @@
 [{
-  "usuarios_por_pais": [
-    {
-      "pais": "ru_RU",
-      "total": 19
-    },
-    {
-      "pais": "zh_CN",
-      "total": 23
-    },
-    {
-      "pais": "it_IT",
-      "total": 36
-    },
-    {
-      "pais": "de_DE",
-      "total": 29
-    },
-    {
-      "pais": "en_US",
-      "total": 36
-    },
-    {
-      "pais": "fr_FR",
-      "total": 18
-    },
-    {
-      "pais": "pt_BR",
-      "total": 29
-    },
-    {
-      "pais": "zh_TW",
-      "total": 26
-    },
-    {
-      "pais": "ko_KR",
-      "total": 29
-    },
-    {
-      "pais": "ja_JP",
-      "total": 21
-    },
-    {
-      "pais": "es_ES",
-      "total": 38
-    }
-  ],
-  "dungeon_name": "Shadysparth, Hobble of the Wandering Stoners",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "hint",
-      "total": 75
-    },
-    {
-      "tipo": "lore",
-      "total": 156
-    },
-    {
-      "tipo": "suggestion",
-      "total": 6
-    },
-    {
-      "tipo": "bug",
-      "total": 67
-    }
-  ],
-  "nivel_mediano": 11
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "ja_JP",
-      "total": 36
-    },
-    {
-      "pais": "ko_KR",
-      "total": 43
-    },
-    {
-      "pais": "it_IT",
-      "total": 47
-    },
-    {
-      "pais": "ru_RU",
-      "total": 51
-    },
-    {
-      "pais": "pt_BR",
-      "total": 56
-    },
-    {
-      "pais": "de_DE",
-      "total": 38
-    },
-    {
-      "pais": "en_US",
-      "total": 61
-    },
-    {
-      "pais": "fr_FR",
-      "total": 46
-    },
-    {
-      "pais": "zh_TW",
-      "total": 60
-    },
-    {
-      "pais": "zh_CN",
-      "total": 37
-    },
-    {
-      "pais": "es_ES",
-      "total": 35
-    }
-  ],
-  "dungeon_name": "Burghap, Prison of the Jealous Hippies",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "suggestion",
-      "total": 14
-    },
-    {
-      "tipo": "hint",
-      "total": 139
-    },
-    {
-      "tipo": "bug",
-      "total": 112
-    },
-    {
-      "tipo": "lore",
-      "total": 245
-    }
-  ],
-  "nivel_mediano": 7
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "fr_FR",
-      "total": 95
-    },
-    {
-      "pais": "zh_CN",
-      "total": 75
-    },
-    {
-      "pais": "ja_JP",
-      "total": 81
-    },
-    {
-      "pais": "es_ES",
-      "total": 101
-    },
-    {
-      "pais": "it_IT",
-      "total": 109
-    },
-    {
-      "pais": "pt_BR",
-      "total": 99
-    },
-    {
-      "pais": "ko_KR",
-      "total": 92
-    },
-    {
-      "pais": "zh_TW",
-      "total": 112
-    },
-    {
-      "pais": "ru_RU",
-      "total": 105
-    },
-    {
-      "pais": "en_US",
-      "total": 82
-    },
-    {
-      "pais": "de_DE",
-      "total": 105
-    }
-  ],
-  "dungeon_name": "Dalshady, Cave of the Old-Fashioned Otaku",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "bug",
-      "total": 267
-    },
-    {
-      "tipo": "lore",
-      "total": 509
-    },
-    {
-      "tipo": "suggestion",
-      "total": 27
-    },
-    {
-      "tipo": "hint",
-      "total": 253
-    }
-  ],
-  "nivel_mediano": 4
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "zh_TW",
-      "total": 69
-    },
-    {
-      "pais": "ko_KR",
-      "total": 80
-    },
-    {
-      "pais": "it_IT",
-      "total": 78
-    },
-    {
-      "pais": "pt_BR",
-      "total": 79
-    },
-    {
-      "pais": "de_DE",
-      "total": 97
-    },
-    {
-      "pais": "zh_CN",
-      "total": 53
-    },
-    {
-      "pais": "fr_FR",
-      "total": 82
-    },
-    {
-      "pais": "en_US",
-      "total": 90
-    },
-    {
-      "pais": "es_ES",
-      "total": 74
-    },
-    {
-      "pais": "ru_RU",
-      "total": 63
-    },
-    {
-      "pais": "ja_JP",
-      "total": 62
-    }
-  ],
   "dungeon_name": "Watergarth, Stockade of the Feminist Presidents",
-  "oro_total": 0,
   "comentarios_por_tipo": [
     {
-      "tipo": "lore",
-      "total": 404
+      "total": 19,
+      "tipo": "suggestion"
     },
     {
-      "tipo": "bug",
-      "total": 208
+      "total": 196,
+      "tipo": "hint"
     },
     {
-      "tipo": "suggestion",
-      "total": 19
+      "total": 404,
+      "tipo": "lore"
     },
     {
-      "tipo": "hint",
-      "total": 196
+      "total": 208,
+      "tipo": "bug"
     }
   ],
-  "nivel_mediano": 4
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "ru_RU",
-      "total": 81
+      "total": 79,
+      "pais": "ko_KR"
     },
     {
-      "pais": "pt_BR",
-      "total": 59
+      "total": 74,
+      "pais": "it_IT"
     },
     {
-      "pais": "en_US",
-      "total": 73
+      "total": 90,
+      "pais": "de_DE"
     },
     {
-      "pais": "it_IT",
-      "total": 67
+      "total": 60,
+      "pais": "ja_JP"
     },
     {
-      "pais": "es_ES",
-      "total": 67
+      "total": 80,
+      "pais": "fr_FR"
     },
     {
-      "pais": "ko_KR",
-      "total": 76
+      "total": 62,
+      "pais": "ru_RU"
     },
     {
-      "pais": "de_DE",
-      "total": 63
+      "total": 76,
+      "pais": "pt_BR"
     },
     {
-      "pais": "ja_JP",
-      "total": 59
+      "total": 65,
+      "pais": "zh_TW"
     },
     {
-      "pais": "zh_CN",
-      "total": 65
+      "total": 51,
+      "pais": "zh_CN"
     },
     {
-      "pais": "zh_TW",
-      "total": 86
+      "total": 84,
+      "pais": "en_US"
     },
     {
-      "pais": "fr_FR",
-      "total": 61
+      "total": 72,
+      "pais": "es_ES"
     }
   ],
-  "dungeon_name": "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "lore",
-      "total": 345
-    },
-    {
-      "tipo": "hint",
-      "total": 198
-    },
-    {
-      "tipo": "suggestion",
-      "total": 19
-    },
-    {
-      "tipo": "bug",
-      "total": 195
-    }
-  ],
-  "nivel_mediano": 4
+  "nivel_mediano": 4,
+  "oro_total": 326690
 },
 {
-  "usuarios_por_pais": [
-    {
-      "pais": "ko_KR",
-      "total": 56
-    },
-    {
-      "pais": "ru_RU",
-      "total": 44
-    },
-    {
-      "pais": "de_DE",
-      "total": 58
-    },
-    {
-      "pais": "es_ES",
-      "total": 36
-    },
-    {
-      "pais": "pt_BR",
-      "total": 54
-    },
-    {
-      "pais": "it_IT",
-      "total": 56
-    },
-    {
-      "pais": "en_US",
-      "total": 66
-    },
-    {
-      "pais": "zh_TW",
-      "total": 57
-    },
-    {
-      "pais": "ja_JP",
-      "total": 63
-    },
-    {
-      "pais": "fr_FR",
-      "total": 47
-    },
-    {
-      "pais": "zh_CN",
-      "total": 44
-    }
-  ],
-  "dungeon_name": "Arvaleclock, Dungeon of the Snobbish Scientists",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "bug",
-      "total": 136
-    },
-    {
-      "tipo": "suggestion",
-      "total": 13
-    },
-    {
-      "tipo": "lore",
-      "total": 282
-    },
-    {
-      "tipo": "hint",
-      "total": 150
-    }
-  ],
-  "nivel_mediano": 7
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "zh_TW",
-      "total": 74
-    },
-    {
-      "pais": "zh_CN",
-      "total": 48
-    },
-    {
-      "pais": "it_IT",
-      "total": 78
-    },
-    {
-      "pais": "en_US",
-      "total": 67
-    },
-    {
-      "pais": "de_DE",
-      "total": 54
-    },
-    {
-      "pais": "ko_KR",
-      "total": 71
-    },
-    {
-      "pais": "pt_BR",
-      "total": 77
-    },
-    {
-      "pais": "es_ES",
-      "total": 75
-    },
-    {
-      "pais": "fr_FR",
-      "total": 66
-    },
-    {
-      "pais": "ja_JP",
-      "total": 44
-    },
-    {
-      "pais": "ru_RU",
-      "total": 75
-    }
-  ],
-  "dungeon_name": "Alaunstream, Pit of the Jolly Scientists",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "hint",
-      "total": 189
-    },
-    {
-      "tipo": "bug",
-      "total": 172
-    },
-    {
-      "tipo": "suggestion",
-      "total": 15
-    },
-    {
-      "tipo": "lore",
-      "total": 353
-    }
-  ],
-  "nivel_mediano": 4
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "ko_KR",
-      "total": 58
-    },
-    {
-      "pais": "pt_BR",
-      "total": 49
-    },
-    {
-      "pais": "en_US",
-      "total": 57
-    },
-    {
-      "pais": "es_ES",
-      "total": 48
-    },
-    {
-      "pais": "it_IT",
-      "total": 39
-    },
-    {
-      "pais": "ru_RU",
-      "total": 49
-    },
-    {
-      "pais": "de_DE",
-      "total": 52
-    },
-    {
-      "pais": "fr_FR",
-      "total": 37
-    },
-    {
-      "pais": "ja_JP",
-      "total": 50
-    },
-    {
-      "pais": "zh_CN",
-      "total": 40
-    },
-    {
-      "pais": "zh_TW",
-      "total": 50
-    }
-  ],
   "dungeon_name": "Schyppegarth, Laboratory of the Sticky Robots",
-  "oro_total": 0,
   "comentarios_por_tipo": [
     {
-      "tipo": "bug",
-      "total": 139
+      "total": 139,
+      "tipo": "bug"
     },
     {
-      "tipo": "hint",
-      "total": 121
+      "total": 254,
+      "tipo": "lore"
     },
     {
-      "tipo": "lore",
-      "total": 254
+      "total": 121,
+      "tipo": "hint"
     },
     {
-      "tipo": "suggestion",
-      "total": 15
+      "total": 15,
+      "tipo": "suggestion"
     }
   ],
-  "nivel_mediano": 4
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "pt_BR",
-      "total": 39
+      "total": 37,
+      "pais": "it_IT"
     },
     {
-      "pais": "ko_KR",
-      "total": 32
+      "total": 34,
+      "pais": "fr_FR"
     },
     {
-      "pais": "en_US",
-      "total": 19
+      "total": 50,
+      "pais": "de_DE"
     },
     {
-      "pais": "ru_RU",
-      "total": 27
+      "total": 48,
+      "pais": "es_ES"
     },
     {
-      "pais": "ja_JP",
-      "total": 29
+      "total": 49,
+      "pais": "zh_TW"
     },
     {
-      "pais": "zh_TW",
-      "total": 30
+      "total": 53,
+      "pais": "ko_KR"
     },
     {
-      "pais": "zh_CN",
-      "total": 28
+      "total": 48,
+      "pais": "ru_RU"
     },
     {
-      "pais": "it_IT",
-      "total": 26
+      "total": 47,
+      "pais": "pt_BR"
     },
     {
-      "pais": "fr_FR",
-      "total": 33
+      "total": 54,
+      "pais": "en_US"
     },
     {
-      "pais": "de_DE",
-      "total": 31
+      "total": 49,
+      "pais": "ja_JP"
     },
     {
-      "pais": "es_ES",
-      "total": 30
+      "total": 38,
+      "pais": "zh_CN"
     }
   ],
-  "dungeon_name": "Bentalaun, Vault of the Old-Fashioned Pirates",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "bug",
-      "total": 87
-    },
-    {
-      "tipo": "hint",
-      "total": 66
-    },
-    {
-      "tipo": "suggestion",
-      "total": 12
-    },
-    {
-      "tipo": "lore",
-      "total": 159
-    }
-  ],
-  "nivel_mediano": 4
+  "nivel_mediano": 4,
+  "oro_total": 152934
 },
 {
-  "usuarios_por_pais": [
-    {
-      "pais": "it_IT",
-      "total": 36
-    },
-    {
-      "pais": "de_DE",
-      "total": 42
-    },
-    {
-      "pais": "pt_BR",
-      "total": 37
-    },
-    {
-      "pais": "fr_FR",
-      "total": 33
-    },
-    {
-      "pais": "ko_KR",
-      "total": 33
-    },
-    {
-      "pais": "ja_JP",
-      "total": 36
-    },
-    {
-      "pais": "zh_TW",
-      "total": 33
-    },
-    {
-      "pais": "en_US",
-      "total": 33
-    },
-    {
-      "pais": "ru_RU",
-      "total": 40
-    },
-    {
-      "pais": "zh_CN",
-      "total": 30
-    },
-    {
-      "pais": "es_ES",
-      "total": 36
-    }
-  ],
-  "dungeon_name": "Dalhylles, Culverts of the Grumpy Bandits",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "bug",
-      "total": 91
-    },
-    {
-      "tipo": "lore",
-      "total": 177
-    },
-    {
-      "tipo": "hint",
-      "total": 105
-    },
-    {
-      "tipo": "suggestion",
-      "total": 16
-    }
-  ],
-  "nivel_mediano": 4
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "pt_BR",
-      "total": 34
-    },
-    {
-      "pais": "ja_JP",
-      "total": 30
-    },
-    {
-      "pais": "zh_CN",
-      "total": 30
-    },
-    {
-      "pais": "en_US",
-      "total": 41
-    },
-    {
-      "pais": "it_IT",
-      "total": 34
-    },
-    {
-      "pais": "zh_TW",
-      "total": 35
-    },
-    {
-      "pais": "es_ES",
-      "total": 37
-    },
-    {
-      "pais": "ru_RU",
-      "total": 42
-    },
-    {
-      "pais": "ko_KR",
-      "total": 36
-    },
-    {
-      "pais": "fr_FR",
-      "total": 43
-    },
-    {
-      "pais": "de_DE",
-      "total": 34
-    }
-  ],
-  "dungeon_name": "Spleensparth, Mines of the Panicky Otaku",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "hint",
-      "total": 108
-    },
-    {
-      "tipo": "suggestion",
-      "total": 3
-    },
-    {
-      "tipo": "lore",
-      "total": 174
-    },
-    {
-      "tipo": "bug",
-      "total": 111
-    }
-  ],
-  "nivel_mediano": 4
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "es_ES",
-      "total": 30
-    },
-    {
-      "pais": "fr_FR",
-      "total": 24
-    },
-    {
-      "pais": "zh_TW",
-      "total": 27
-    },
-    {
-      "pais": "ko_KR",
-      "total": 21
-    },
-    {
-      "pais": "de_DE",
-      "total": 23
-    },
-    {
-      "pais": "en_US",
-      "total": 17
-    },
-    {
-      "pais": "pt_BR",
-      "total": 21
-    },
-    {
-      "pais": "ja_JP",
-      "total": 16
-    },
-    {
-      "pais": "it_IT",
-      "total": 27
-    },
-    {
-      "pais": "ru_RU",
-      "total": 23
-    },
-    {
-      "pais": "zh_CN",
-      "total": 15
-    }
-  ],
-  "dungeon_name": "Withystream, Castle of the Screeching Otaku",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "lore",
-      "total": 120
-    },
-    {
-      "tipo": "bug",
-      "total": 55
-    },
-    {
-      "tipo": "suggestion",
-      "total": 2
-    },
-    {
-      "tipo": "hint",
-      "total": 67
-    }
-  ],
-  "nivel_mediano": 11
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "es_ES",
-      "total": 118
-    },
-    {
-      "pais": "zh_CN",
-      "total": 82
-    },
-    {
-      "pais": "pt_BR",
-      "total": 91
-    },
-    {
-      "pais": "ja_JP",
-      "total": 107
-    },
-    {
-      "pais": "ru_RU",
-      "total": 91
-    },
-    {
-      "pais": "zh_TW",
-      "total": 110
-    },
-    {
-      "pais": "de_DE",
-      "total": 114
-    },
-    {
-      "pais": "ko_KR",
-      "total": 105
-    },
-    {
-      "pais": "fr_FR",
-      "total": 100
-    },
-    {
-      "pais": "it_IT",
-      "total": 105
-    },
-    {
-      "pais": "en_US",
-      "total": 96
-    }
-  ],
-  "dungeon_name": "Fenwater, Hobble of the Fierce Furries",
-  "oro_total": 0,
-  "comentarios_por_tipo": [
-    {
-      "tipo": "bug",
-      "total": 272
-    },
-    {
-      "tipo": "lore",
-      "total": 545
-    },
-    {
-      "tipo": "suggestion",
-      "total": 21
-    },
-    {
-      "tipo": "hint",
-      "total": 281
-    }
-  ],
-  "nivel_mediano": 7
-},
-{
-  "usuarios_por_pais": [
-    {
-      "pais": "de_DE",
-      "total": 39
-    },
-    {
-      "pais": "es_ES",
-      "total": 26
-    },
-    {
-      "pais": "fr_FR",
-      "total": 29
-    },
-    {
-      "pais": "zh_TW",
-      "total": 28
-    },
-    {
-      "pais": "ko_KR",
-      "total": 31
-    },
-    {
-      "pais": "ja_JP",
-      "total": 24
-    },
-    {
-      "pais": "en_US",
-      "total": 27
-    },
-    {
-      "pais": "ru_RU",
-      "total": 40
-    },
-    {
-      "pais": "pt_BR",
-      "total": 26
-    },
-    {
-      "pais": "it_IT",
-      "total": 30
-    },
-    {
-      "pais": "zh_CN",
-      "total": 29
-    }
-  ],
   "dungeon_name": "Burgstream, Culverts of the Bashful Sumo Wrestlers",
-  "oro_total": 0,
   "comentarios_por_tipo": [
     {
-      "tipo": "hint",
-      "total": 91
+      "total": 12,
+      "tipo": "suggestion"
     },
     {
-      "tipo": "suggestion",
-      "total": 12
+      "total": 80,
+      "tipo": "bug"
     },
     {
-      "tipo": "bug",
-      "total": 80
+      "total": 146,
+      "tipo": "lore"
     },
     {
-      "tipo": "lore",
-      "total": 146
+      "total": 91,
+      "tipo": "hint"
     }
   ],
-  "nivel_mediano": 11
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "it_IT",
-      "total": 13
+      "total": 25,
+      "pais": "es_ES"
     },
     {
-      "pais": "pt_BR",
-      "total": 10
+      "total": 27,
+      "pais": "en_US"
     },
     {
-      "pais": "fr_FR",
-      "total": 19
+      "total": 40,
+      "pais": "ru_RU"
     },
     {
-      "pais": "zh_CN",
-      "total": 20
+      "total": 27,
+      "pais": "zh_TW"
     },
     {
-      "pais": "es_ES",
-      "total": 9
+      "total": 37,
+      "pais": "de_DE"
     },
     {
-      "pais": "ja_JP",
-      "total": 20
+      "total": 31,
+      "pais": "ko_KR"
     },
     {
-      "pais": "ko_KR",
-      "total": 19
+      "total": 26,
+      "pais": "pt_BR"
     },
     {
-      "pais": "ru_RU",
-      "total": 18
+      "total": 23,
+      "pais": "ja_JP"
     },
     {
-      "pais": "zh_TW",
-      "total": 21
+      "total": 30,
+      "pais": "it_IT"
     },
     {
-      "pais": "de_DE",
-      "total": 12
+      "total": 28,
+      "pais": "zh_CN"
     },
     {
-      "pais": "en_US",
-      "total": 19
+      "total": 29,
+      "pais": "fr_FR"
     }
   ],
-  "dungeon_name": "Corriedal, Sewers of the Terrible Emperors",
-  "oro_total": 0,
+  "nivel_mediano": 11,
+  "oro_total": 181654
+},
+{
+  "dungeon_name": "Arvaleclock, Dungeon of the Snobbish Scientists",
   "comentarios_por_tipo": [
     {
-      "tipo": "suggestion",
-      "total": 3
+      "total": 150,
+      "tipo": "hint"
     },
     {
-      "tipo": "bug",
-      "total": 48
+      "total": 282,
+      "tipo": "lore"
     },
     {
-      "tipo": "hint",
-      "total": 38
+      "total": 136,
+      "tipo": "bug"
     },
     {
-      "tipo": "lore",
-      "total": 91
+      "total": 13,
+      "tipo": "suggestion"
     }
   ],
-  "nivel_mediano": 11
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "zh_TW",
-      "total": 77
+      "total": 47,
+      "pais": "fr_FR"
     },
     {
-      "pais": "pt_BR",
-      "total": 75
+      "total": 56,
+      "pais": "de_DE"
     },
     {
-      "pais": "de_DE",
-      "total": 57
+      "total": 62,
+      "pais": "en_US"
     },
     {
-      "pais": "ru_RU",
-      "total": 72
+      "total": 53,
+      "pais": "pt_BR"
     },
     {
-      "pais": "zh_CN",
-      "total": 70
+      "total": 34,
+      "pais": "es_ES"
     },
     {
-      "pais": "ja_JP",
-      "total": 63
+      "total": 54,
+      "pais": "zh_TW"
     },
     {
-      "pais": "ko_KR",
-      "total": 75
+      "total": 59,
+      "pais": "ja_JP"
     },
     {
-      "pais": "es_ES",
-      "total": 67
+      "total": 55,
+      "pais": "it_IT"
     },
     {
-      "pais": "fr_FR",
-      "total": 77
+      "total": 44,
+      "pais": "ru_RU"
     },
     {
-      "pais": "it_IT",
-      "total": 68
+      "total": 42,
+      "pais": "zh_CN"
     },
     {
-      "pais": "en_US",
-      "total": 68
+      "total": 53,
+      "pais": "ko_KR"
     }
   ],
-  "dungeon_name": "Wanton, Culverts of the Jealous Thieves",
-  "oro_total": 0,
+  "nivel_mediano": 7,
+  "oro_total": 300124
+},
+{
+  "dungeon_name": "Alaunstream, Pit of the Jolly Scientists",
   "comentarios_por_tipo": [
     {
-      "tipo": "positive",
-      "total": 1
+      "total": 15,
+      "tipo": "suggestion"
     },
     {
-      "tipo": "suggestion",
-      "total": 19
+      "total": 172,
+      "tipo": "bug"
     },
     {
-      "tipo": "lore",
-      "total": 385
+      "total": 353,
+      "tipo": "lore"
     },
     {
-      "tipo": "hint",
-      "total": 178
-    },
-    {
-      "tipo": "bug",
-      "total": 186
+      "total": 189,
+      "tipo": "hint"
     }
   ],
-  "nivel_mediano": 7
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "ru_RU",
-      "total": 13
+      "total": 46,
+      "pais": "zh_CN"
     },
     {
-      "pais": "it_IT",
-      "total": 12
+      "total": 61,
+      "pais": "fr_FR"
     },
     {
-      "pais": "es_ES",
-      "total": 12
+      "total": 64,
+      "pais": "en_US"
     },
     {
-      "pais": "ja_JP",
-      "total": 15
+      "total": 72,
+      "pais": "pt_BR"
     },
     {
-      "pais": "zh_CN",
-      "total": 14
+      "total": 74,
+      "pais": "it_IT"
     },
     {
-      "pais": "fr_FR",
-      "total": 19
+      "total": 74,
+      "pais": "ru_RU"
     },
     {
-      "pais": "pt_BR",
-      "total": 8
+      "total": 70,
+      "pais": "es_ES"
     },
     {
-      "pais": "de_DE",
-      "total": 12
+      "total": 42,
+      "pais": "ja_JP"
     },
     {
-      "pais": "en_US",
-      "total": 11
+      "total": 69,
+      "pais": "ko_KR"
     },
     {
-      "pais": "zh_TW",
-      "total": 12
+      "total": 53,
+      "pais": "de_DE"
     },
     {
-      "pais": "ko_KR",
-      "total": 14
+      "total": 73,
+      "pais": "zh_TW"
     }
   ],
-  "dungeon_name": "Garthwort, Mines of the Elderly Emperors",
-  "oro_total": 0,
+  "nivel_mediano": 4,
+  "oro_total": 278584
+},
+{
+  "dungeon_name": "Bentalaun, Vault of the Old-Fashioned Pirates",
   "comentarios_por_tipo": [
     {
-      "tipo": "hint",
-      "total": 24
+      "total": 159,
+      "tipo": "lore"
     },
     {
-      "tipo": "lore",
-      "total": 74
+      "total": 87,
+      "tipo": "bug"
     },
     {
-      "tipo": "suggestion",
-      "total": 4
+      "total": 66,
+      "tipo": "hint"
     },
     {
-      "tipo": "bug",
-      "total": 40
+      "total": 12,
+      "tipo": "suggestion"
     }
   ],
-  "nivel_mediano": 4
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "de_DE",
-      "total": 87
+      "total": 30,
+      "pais": "es_ES"
     },
     {
-      "pais": "it_IT",
-      "total": 92
+      "total": 31,
+      "pais": "ko_KR"
     },
     {
-      "pais": "ko_KR",
-      "total": 89
+      "total": 28,
+      "pais": "zh_CN"
     },
     {
-      "pais": "zh_TW",
-      "total": 97
+      "total": 39,
+      "pais": "pt_BR"
     },
     {
-      "pais": "ru_RU",
-      "total": 96
+      "total": 30,
+      "pais": "zh_TW"
     },
     {
-      "pais": "en_US",
-      "total": 90
+      "total": 33,
+      "pais": "fr_FR"
     },
     {
-      "pais": "ja_JP",
-      "total": 99
+      "total": 31,
+      "pais": "de_DE"
     },
     {
-      "pais": "zh_CN",
-      "total": 83
+      "total": 27,
+      "pais": "ru_RU"
     },
     {
-      "pais": "pt_BR",
-      "total": 77
+      "total": 29,
+      "pais": "ja_JP"
     },
     {
-      "pais": "fr_FR",
-      "total": 106
+      "total": 19,
+      "pais": "en_US"
     },
     {
-      "pais": "es_ES",
-      "total": 117
+      "total": 26,
+      "pais": "it_IT"
     }
   ],
+  "nivel_mediano": 4,
+  "oro_total": 186680
+},
+{
   "dungeon_name": "Marshgreat, Catacombs of the Wandering Degenerates",
-  "oro_total": 0,
   "comentarios_por_tipo": [
     {
-      "tipo": "lore",
-      "total": 489
+      "total": 241,
+      "tipo": "bug"
     },
     {
-      "tipo": "suggestion",
-      "total": 30
+      "total": 30,
+      "tipo": "suggestion"
     },
     {
-      "tipo": "hint",
-      "total": 273
+      "total": 489,
+      "tipo": "lore"
     },
     {
-      "tipo": "bug",
-      "total": 241
+      "total": 273,
+      "tipo": "hint"
     }
   ],
-  "nivel_mediano": 4
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "de_DE",
-      "total": 55
+      "total": 74,
+      "pais": "pt_BR"
     },
     {
-      "pais": "ru_RU",
-      "total": 67
+      "total": 87,
+      "pais": "ru_RU"
     },
     {
-      "pais": "es_ES",
-      "total": 49
+      "total": 100,
+      "pais": "fr_FR"
     },
     {
-      "pais": "ja_JP",
-      "total": 55
+      "total": 94,
+      "pais": "ja_JP"
     },
     {
-      "pais": "fr_FR",
-      "total": 49
+      "total": 90,
+      "pais": "zh_TW"
     },
     {
-      "pais": "zh_CN",
-      "total": 51
+      "total": 90,
+      "pais": "it_IT"
     },
     {
-      "pais": "pt_BR",
-      "total": 62
+      "total": 85,
+      "pais": "de_DE"
     },
     {
-      "pais": "it_IT",
-      "total": 67
+      "total": 86,
+      "pais": "ko_KR"
     },
     {
-      "pais": "ko_KR",
-      "total": 63
+      "total": 86,
+      "pais": "en_US"
     },
     {
-      "pais": "zh_TW",
-      "total": 65
+      "total": 81,
+      "pais": "zh_CN"
     },
     {
-      "pais": "en_US",
-      "total": 56
+      "total": 108,
+      "pais": "es_ES"
     }
   ],
-  "dungeon_name": "Corrieclock, Pit of the Sexy Unknowns",
-  "oro_total": 0,
+  "nivel_mediano": 4,
+  "oro_total": 320946
+},
+{
+  "dungeon_name": "Dalhylles, Culverts of the Grumpy Bandits",
   "comentarios_por_tipo": [
     {
-      "tipo": "suggestion",
-      "total": 17
+      "total": 105,
+      "tipo": "hint"
     },
     {
-      "tipo": "bug",
-      "total": 180
+      "total": 177,
+      "tipo": "lore"
     },
     {
-      "tipo": "hint",
-      "total": 153
+      "total": 91,
+      "tipo": "bug"
     },
     {
-      "tipo": "lore",
-      "total": 289
+      "total": 16,
+      "tipo": "suggestion"
     }
   ],
-  "nivel_mediano": 7
-},
-{
   "usuarios_por_pais": [
     {
-      "pais": "zh_TW",
-      "total": 16
+      "total": 41,
+      "pais": "de_DE"
     },
     {
-      "pais": "ja_JP",
-      "total": 13
+      "total": 36,
+      "pais": "pt_BR"
     },
     {
-      "pais": "zh_CN",
-      "total": 7
+      "total": 32,
+      "pais": "zh_TW"
     },
     {
-      "pais": "ko_KR",
-      "total": 18
+      "total": 28,
+      "pais": "zh_CN"
     },
     {
-      "pais": "en_US",
-      "total": 13
+      "total": 39,
+      "pais": "ru_RU"
     },
     {
-      "pais": "it_IT",
-      "total": 9
+      "total": 36,
+      "pais": "it_IT"
     },
     {
-      "pais": "ru_RU",
-      "total": 13
+      "total": 33,
+      "pais": "en_US"
     },
     {
-      "pais": "fr_FR",
-      "total": 17
+      "total": 33,
+      "pais": "fr_FR"
     },
     {
-      "pais": "pt_BR",
-      "total": 9
+      "total": 36,
+      "pais": "es_ES"
     },
     {
-      "pais": "es_ES",
-      "total": 9
+      "total": 32,
+      "pais": "ko_KR"
     },
     {
-      "pais": "de_DE",
-      "total": 20
+      "total": 34,
+      "pais": "ja_JP"
     }
   ],
+  "nivel_mediano": 4,
+  "oro_total": 122060
+},
+{
+  "dungeon_name": "Corriedal, Sewers of the Terrible Emperors",
+  "comentarios_por_tipo": [
+    {
+      "total": 3,
+      "tipo": "suggestion"
+    },
+    {
+      "total": 38,
+      "tipo": "hint"
+    },
+    {
+      "total": 91,
+      "tipo": "lore"
+    },
+    {
+      "total": 48,
+      "tipo": "bug"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 19,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 19,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 11,
+      "pais": "de_DE"
+    },
+    {
+      "total": 19,
+      "pais": "en_US"
+    },
+    {
+      "total": 18,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 21,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 20,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 13,
+      "pais": "it_IT"
+    },
+    {
+      "total": 20,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 10,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 9,
+      "pais": "es_ES"
+    }
+  ],
+  "nivel_mediano": 7,
+  "oro_total": 77544
+},
+{
+  "dungeon_name": "Spleensparth, Mines of the Panicky Otaku",
+  "comentarios_por_tipo": [
+    {
+      "total": 111,
+      "tipo": "bug"
+    },
+    {
+      "total": 108,
+      "tipo": "hint"
+    },
+    {
+      "total": 174,
+      "tipo": "lore"
+    },
+    {
+      "total": 3,
+      "tipo": "suggestion"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 34,
+      "pais": "de_DE"
+    },
+    {
+      "total": 35,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 30,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 36,
+      "pais": "es_ES"
+    },
+    {
+      "total": 34,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 36,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 33,
+      "pais": "it_IT"
+    },
+    {
+      "total": 29,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 39,
+      "pais": "en_US"
+    },
+    {
+      "total": 41,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 40,
+      "pais": "ru_RU"
+    }
+  ],
+  "nivel_mediano": 4,
+  "oro_total": 111290
+},
+{
+  "dungeon_name": "Wanton, Culverts of the Jealous Thieves",
+  "comentarios_por_tipo": [
+    {
+      "total": 19,
+      "tipo": "suggestion"
+    },
+    {
+      "total": 186,
+      "tipo": "bug"
+    },
+    {
+      "total": 385,
+      "tipo": "lore"
+    },
+    {
+      "total": 178,
+      "tipo": "hint"
+    },
+    {
+      "total": 1,
+      "tipo": "positive"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 67,
+      "pais": "en_US"
+    },
+    {
+      "total": 67,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 69,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 68,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 75,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 53,
+      "pais": "de_DE"
+    },
+    {
+      "total": 71,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 59,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 65,
+      "pais": "es_ES"
+    },
+    {
+      "total": 67,
+      "pais": "it_IT"
+    },
+    {
+      "total": 75,
+      "pais": "fr_FR"
+    }
+  ],
+  "nivel_mediano": 4,
+  "oro_total": 290072
+},
+{
+  "dungeon_name": "Shadysparth, Hobble of the Wandering Stoners",
+  "comentarios_por_tipo": [
+    {
+      "total": 75,
+      "tipo": "hint"
+    },
+    {
+      "total": 156,
+      "tipo": "lore"
+    },
+    {
+      "total": 67,
+      "tipo": "bug"
+    },
+    {
+      "total": 6,
+      "tipo": "suggestion"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 29,
+      "pais": "de_DE"
+    },
+    {
+      "total": 20,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 26,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 19,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 35,
+      "pais": "it_IT"
+    },
+    {
+      "total": 29,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 37,
+      "pais": "es_ES"
+    },
+    {
+      "total": 36,
+      "pais": "en_US"
+    },
+    {
+      "total": 27,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 18,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 23,
+      "pais": "zh_CN"
+    }
+  ],
+  "nivel_mediano": 7,
+  "oro_total": 145036
+},
+{
+  "dungeon_name": "Burghap, Prison of the Jealous Hippies",
+  "comentarios_por_tipo": [
+    {
+      "total": 112,
+      "tipo": "bug"
+    },
+    {
+      "total": 14,
+      "tipo": "suggestion"
+    },
+    {
+      "total": 245,
+      "tipo": "lore"
+    },
+    {
+      "total": 139,
+      "tipo": "hint"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 45,
+      "pais": "it_IT"
+    },
+    {
+      "total": 59,
+      "pais": "en_US"
+    },
+    {
+      "total": 58,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 52,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 43,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 33,
+      "pais": "es_ES"
+    },
+    {
+      "total": 42,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 50,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 37,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 37,
+      "pais": "de_DE"
+    },
+    {
+      "total": 34,
+      "pais": "ja_JP"
+    }
+  ],
+  "nivel_mediano": 7,
+  "oro_total": 142164
+},
+{
+  "dungeon_name": "Withystream, Castle of the Screeching Otaku",
+  "comentarios_por_tipo": [
+    {
+      "total": 55,
+      "tipo": "bug"
+    },
+    {
+      "total": 120,
+      "tipo": "lore"
+    },
+    {
+      "total": 67,
+      "tipo": "hint"
+    },
+    {
+      "total": 2,
+      "tipo": "suggestion"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 16,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 21,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 23,
+      "pais": "de_DE"
+    },
+    {
+      "total": 26,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 23,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 30,
+      "pais": "es_ES"
+    },
+    {
+      "total": 27,
+      "pais": "it_IT"
+    },
+    {
+      "total": 21,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 17,
+      "pais": "en_US"
+    },
+    {
+      "total": 15,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 23,
+      "pais": "ru_RU"
+    }
+  ],
+  "nivel_mediano": 11,
+  "oro_total": 140010
+},
+{
+  "dungeon_name": "Fenwater, Hobble of the Fierce Furries",
+  "comentarios_por_tipo": [
+    {
+      "total": 21,
+      "tipo": "suggestion"
+    },
+    {
+      "total": 272,
+      "tipo": "bug"
+    },
+    {
+      "total": 281,
+      "tipo": "hint"
+    },
+    {
+      "total": 545,
+      "tipo": "lore"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 78,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 100,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 94,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 106,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 99,
+      "pais": "it_IT"
+    },
+    {
+      "total": 104,
+      "pais": "de_DE"
+    },
+    {
+      "total": 85,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 88,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 101,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 89,
+      "pais": "en_US"
+    },
+    {
+      "total": 109,
+      "pais": "es_ES"
+    }
+  ],
+  "nivel_mediano": 7,
+  "oro_total": 387002
+},
+{
+  "dungeon_name": "Dalshady, Cave of the Old-Fashioned Otaku",
+  "comentarios_por_tipo": [
+    {
+      "total": 267,
+      "tipo": "bug"
+    },
+    {
+      "total": 509,
+      "tipo": "lore"
+    },
+    {
+      "total": 253,
+      "tipo": "hint"
+    },
+    {
+      "total": 27,
+      "tipo": "suggestion"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 100,
+      "pais": "de_DE"
+    },
+    {
+      "total": 95,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 106,
+      "pais": "it_IT"
+    },
+    {
+      "total": 77,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 100,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 74,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 92,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 85,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 80,
+      "pais": "en_US"
+    },
+    {
+      "total": 96,
+      "pais": "es_ES"
+    },
+    {
+      "total": 108,
+      "pais": "zh_TW"
+    }
+  ],
+  "nivel_mediano": 4,
+  "oro_total": 489676
+},
+{
+  "dungeon_name": "Garthwort, Mines of the Elderly Emperors",
+  "comentarios_por_tipo": [
+    {
+      "total": 4,
+      "tipo": "suggestion"
+    },
+    {
+      "total": 24,
+      "tipo": "hint"
+    },
+    {
+      "total": 40,
+      "tipo": "bug"
+    },
+    {
+      "total": 74,
+      "tipo": "lore"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 13,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 12,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 19,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 14,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 12,
+      "pais": "it_IT"
+    },
+    {
+      "total": 14,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 11,
+      "pais": "en_US"
+    },
+    {
+      "total": 12,
+      "pais": "de_DE"
+    },
+    {
+      "total": 8,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 12,
+      "pais": "es_ES"
+    },
+    {
+      "total": 14,
+      "pais": "ja_JP"
+    }
+  ],
+  "nivel_mediano": 4,
+  "oro_total": 43080
+},
+{
   "dungeon_name": "Strathglass, Mausoleum of the Repulsive Ninjas",
-  "oro_total": 0,
   "comentarios_por_tipo": [
     {
-      "tipo": "lore",
-      "total": 72
+      "total": 72,
+      "tipo": "lore"
     },
     {
-      "tipo": "hint",
-      "total": 34
+      "total": 37,
+      "tipo": "bug"
     },
     {
-      "tipo": "suggestion",
-      "total": 1
+      "total": 34,
+      "tipo": "hint"
     },
     {
-      "tipo": "bug",
-      "total": 37
+      "total": 1,
+      "tipo": "suggestion"
     }
   ],
-  "nivel_mediano": 11
+  "usuarios_por_pais": [
+    {
+      "total": 9,
+      "pais": "es_ES"
+    },
+    {
+      "total": 17,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 18,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 16,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 20,
+      "pais": "de_DE"
+    },
+    {
+      "total": 9,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 8,
+      "pais": "it_IT"
+    },
+    {
+      "total": 13,
+      "pais": "en_US"
+    },
+    {
+      "total": 13,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 7,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 13,
+      "pais": "ja_JP"
+    }
+  ],
+  "nivel_mediano": 4,
+  "oro_total": 25848
+},
+{
+  "dungeon_name": "Greatcliffe, Castle of the Magnificent Sumo Wrestlers",
+  "comentarios_por_tipo": [
+    {
+      "total": 19,
+      "tipo": "suggestion"
+    },
+    {
+      "total": 345,
+      "tipo": "lore"
+    },
+    {
+      "total": 198,
+      "tipo": "hint"
+    },
+    {
+      "total": 195,
+      "tipo": "bug"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 77,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 70,
+      "pais": "en_US"
+    },
+    {
+      "total": 72,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 62,
+      "pais": "de_DE"
+    },
+    {
+      "total": 83,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 62,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 63,
+      "pais": "it_IT"
+    },
+    {
+      "total": 57,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 57,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 55,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 65,
+      "pais": "es_ES"
+    }
+  ],
+  "nivel_mediano": 4,
+  "oro_total": 358282
+},
+{
+  "dungeon_name": "Corrieclock, Pit of the Sexy Unknowns",
+  "comentarios_por_tipo": [
+    {
+      "total": 289,
+      "tipo": "lore"
+    },
+    {
+      "total": 153,
+      "tipo": "hint"
+    },
+    {
+      "total": 180,
+      "tipo": "bug"
+    },
+    {
+      "total": 17,
+      "tipo": "suggestion"
+    }
+  ],
+  "usuarios_por_pais": [
+    {
+      "total": 54,
+      "pais": "ja_JP"
+    },
+    {
+      "total": 65,
+      "pais": "it_IT"
+    },
+    {
+      "total": 63,
+      "pais": "zh_TW"
+    },
+    {
+      "total": 61,
+      "pais": "pt_BR"
+    },
+    {
+      "total": 49,
+      "pais": "es_ES"
+    },
+    {
+      "total": 49,
+      "pais": "fr_FR"
+    },
+    {
+      "total": 54,
+      "pais": "de_DE"
+    },
+    {
+      "total": 62,
+      "pais": "ko_KR"
+    },
+    {
+      "total": 50,
+      "pais": "zh_CN"
+    },
+    {
+      "total": 65,
+      "pais": "ru_RU"
+    },
+    {
+      "total": 55,
+      "pais": "en_US"
+    }
+  ],
+  "nivel_mediano": 4,
+  "oro_total": 216836
 }]
